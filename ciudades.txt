@@ -3,3 +3,7 @@ Paris
 Colombia
 CDMX
 Cali
+Bogota 
+Munich
+Osaka
+Brazilia

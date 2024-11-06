@@ -1,1 +1,4 @@
 hola mundo 
+El otro día me comí unos doriesquites y me hicieron daño
+Practica de git
+Pasos para crear repositorios 
