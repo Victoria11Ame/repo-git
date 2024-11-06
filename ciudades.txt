@@ -7,3 +7,7 @@ Bogota
 Munich
 Osaka
 Brazilia
+Jalisco
+Tuxpan
+Cancun
+Merida
