@@ -11,3 +11,5 @@ Jalisco
 Tuxpan
 Cancun
 Merida
+Chichen Itza
+Madrid 
